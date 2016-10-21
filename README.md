@@ -1,5 +1,5 @@
 # Alexandria Press
-A place for sharing story ideas and managing flow for Alexandria Press.
+A place for sharing story ideas and managing flow for [Alexandria Press](https://medium.com/alexandria-press).
 
 ## Guidelines
 * Submit you story idea as a new issue
